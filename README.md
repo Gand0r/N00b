@@ -1,6 +1,6 @@
 ## Welcome
 
-This Repository made for personal and for testing purpose only :D
+This Repository made for personal and testing purpose only :D
 
 
 ### Berikut Daftar Modem Cadangan
