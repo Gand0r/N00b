@@ -1,6 +1,6 @@
 ## Welcome to My Pages
 
-This Repository made for personal and for testing purpose :D
+This Repository made for personal and for testing purpose only :D
 
 ### Berikut Datfar Modem Cadangan Saat ini
 
@@ -14,4 +14,4 @@ This Repository made for personal and for testing purpose :D
 | MIKAEL | 1 | |
 | TPLI | 1 | Peruntukan MS |
 
-For more information [about me](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+For more information [About Me](https://github.com/Gand0r)
