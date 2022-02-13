@@ -7,13 +7,12 @@ This Repository made for personal and for testing purpose only :D
 
 | POSISI | JUMLAH | KETERANGAN |
 | -- | -- | -- |
-| TLGM | 1 |  |
-| KANTOR | 2 | 1 Set lengkap, 1 Set kurang adaptor & kabel lan |
+| KANTOR | 3 | 2 Set lengkap, 1 Set kurang adaptor & kabel lan |
 | NAHRUL | 1 | |
 | NATAN | 1 | |
 | YOGA | 1 | |
 | MIKAEL | 1 | |
-| TPLI | 1 | Peruntukan MS |
+| TEAF | 1 |  |
 
 
 ### Bahan Renungan
