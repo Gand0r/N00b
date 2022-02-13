@@ -2,7 +2,8 @@
 
 This Repository made for personal and for testing purpose only :D
 
-### Berikut Datfar Modem Cadangan Saat ini
+
+### Berikut Daftar Modem Cadangan
 
 | POSISI | JUMLAH | KETERANGAN |
 | -- | -- | -- |
@@ -14,4 +15,7 @@ This Repository made for personal and for testing purpose only :D
 | MIKAEL | 1 | |
 | TPLI | 1 | Peruntukan MS |
 
-For more information [About Me](https://github.com/Gand0r)
+
+### Bahan Renungan
+
+> Before you speak, make sure that your tongue connected to your brain. Because many people are educated but not totally mannered.
