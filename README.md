@@ -15,6 +15,6 @@ This Repository made for personal and for testing purpose only :D
 | TEAF | 1 |  |
 
 
-### Bahan Renungan
+### Bahan Renungan Kita Semua
 
 > Before you speak, make sure that your tongue connected to your brain. Because many people are educated but not totally mannered.
