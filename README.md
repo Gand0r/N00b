@@ -1,19 +1,19 @@
 ## Welcome
 
-This Repository made for personal and testing purpose only :D
+Hanya untuk belajar dan kebutuhan saya pribadi.
 
 
 ### Berikut Daftar Modem Cadangan
 
 | POSISI | JUMLAH | KETERANGAN |
 | -- | -- | -- |
-| KANTOR | 3 | 2 Set lengkap, 1 Set kurang adaptor & kabel lan |
+| KANTOR | 1 |  |
 | NAHRUL | 1 | |
 | NATAN | 1 | |
 | YOGA | 1 | |
-| MIKAEL | 1 | |
-| TEAF | 1 |  |
-
+| TKPO | 1 | |
+| TEAF | 1 | |
+| SANDI | 1 | |
 
 ### Bahan Renungan Kita Semua
 
